@@ -30,5 +30,3 @@ end
           sum
         end
       end
-    end
-
